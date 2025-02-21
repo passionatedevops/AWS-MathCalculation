@@ -1,0 +1,1 @@
+Add readme fiel content. this is a small project , deployed to AWS resources using amplify , api gateway, lambda fucntion , deynamoDB)
